@@ -1,4 +1,4 @@
-# Local Backend fro Dynamic Layout
+# Local Backend for Dynamic Layout
 
 A local backend service for managing carousel configurations with a React-based admin interface.
 
