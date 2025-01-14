@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1735932119449,
+    "carouselTitle": "HERO",
+    "carouselType": "hero",
+    "endpoint": "livestreams"
+  },
+  {
+    "id": "9fc13a87-af56-42ef-a66e-b88a88540cc9",
+    "carouselType": "card",
+    "carouselTitle": "Roland Garros",
+    "endpoint": "teams"
+  },
+  {
+    "id": "5d21039f-3ba5-491b-b481-32ceb742ac71",
+    "carouselType": "card",
+    "carouselTitle": "Champions League",
+    "endpoint": "documentaries"
+  },
+  {
+    "carouselTitle": "LOL",
+    "endpoint": "teams",
+    "carouselType": "square"
+  }
+]
